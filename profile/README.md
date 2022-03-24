@@ -6,7 +6,6 @@
     </div>
     <div>
       <h2>Welcome!</h2>
-      <h4>Welcome to the Botgate Github organization!</h4>
     </div>
     <div>
      <h2>Useful links</h2>
