@@ -2,7 +2,7 @@
 <html>
   <body align="center">
     <div>
-      <img src="https://cdn.discordapp.com/attachments/848600175705325599/932651096378318858/ezgif-2-d290285761.gif">
+      <img src="https://imgur.com/xwHJyLy.png">
       <h3>Botgate offers premium yet free hosting! We host discord bots, Minecraft servers and much more. Build your dream projects with Botgate Hosting.</h3>
     </div>
     <div>
