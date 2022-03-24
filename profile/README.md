@@ -2,25 +2,19 @@
 <html>
   <body align="center">
     <div>
-      <img src="https://imgur.com/xwHJyLy.png">
       <h3>Botgate offers premium yet free hosting! We host discord bots, Minecraft servers and much more. Build your dream projects with Botgate Hosting.</h3>
     </div>
     <div>
       <h2>Welcome!</h2>
       <h4>Welcome to the Botgate Github organization!</h4>
-      There are tons of things to do if you plan on learning more about us. You can check out all of our websites to find out what kind of group we are. Almost everything about us is on our documentation site. You can join our Discord server for updates on our products, to contact us, and more. We're mainly a discord-based development group so as of right now our entire operation is on Discord including our products.
     </div>
     <div>
-     <h2>🔗 Links</h2>
+     <h2>Useful links</h2>
       <ul>
-        <li><a href="https://matrixdev.xyz/?from=github?reason=clicked-link">Website</a></li>
-        <li><a href="https://matrixdev.xyz/legal">Legal</a></li>
-        <li><a href="https://matrixdev.xyz/products">Products</a></li>
-        <li><a href="https://matrixdev.xyz/team">Our Team</a></li>
-        <li><a href="https://matrixdev.xyz/#faq">Faq</a></li>
-        <li><a href="https://discord.gg/mtx">Discord</a></li>
-        <li><a href="https://status.matrixdev.xyz">Status Site</a></li>
-        <li><a href="https://docs.matrixdev.xyz">Documentation Site</a></li>
+        <li><a href="https://botgate.xyz">Website</a></li>
+        <li><a href="https://my.botgate.xyz">Panel</a></li>
+        <li><a href="https://status.botgate.xyz">Status Page</a></li>
+        <li><a href="https://client.botgate.xyz">Client area</a></li>
       </ul>
     </div>
   </body>
